@@ -13,7 +13,7 @@
 | 词形 | 1. 词尾决定词性 · 2. 否定用前缀 |
 | 动词 | 3. 被动语态 · 4. make 的三种用法 · 5. 介词后面用 doing · 6. 情态动词和 to 后面用原形 · 7. 动词作主语用 doing · 8. 动词 + 介词搭配 |
 | 时态 | 9. 大作文的时态 · 10. 主谓一致 |
-| 句子 | 11. 中文语序 → 英文语序 · 12. 关系代词不能省 · 13. 「随着」用 As · 14. 两个句子不能只用逗号连接 |
+| 句子 | 11. 中文语序 → 英文语序 · 12. 关系代词不能省 · 13. 「随着」用 As · 14. 两个句子不能只用逗号连接 · 18. 表示结果、目的、原因的连接词 |
 | 名词 | 15. 冠词和单复数 · 16. 所有格 's |
 | 标点 | 17. 标点和大小写 |
 
@@ -28,8 +28,16 @@
 - 介词后面要名词:in **employment**。
 - 形容词后面不加 -ed:**acceptable**。
 - **形容词不能当名词用(382-1):** ✗ `play games on electronic` → ✓ `on electronic **devices**`;✗ `harm children's eyes and physical` → ✓ `eyes and **bodies**` / `physical **health**`。
+- **名词不能当形容词用(401-1):** ✗ `the system is not security` → ✓ `not **secure**`。is / are 后面描述「怎么样」,要用形容词。
 
-出处:11847-1、382-1
+| 名词 | 形容词 |
+| --- | --- |
+| security | secure |
+| efficiency | efficient |
+| popularity | popular |
+| importance | important |
+
+出处:11847-1、382-1、401-1
 
 ## 2. 否定用前缀,不用 not + 动词
 
@@ -52,10 +60,23 @@
 | shouldn't be xxx | shouldn't be **tolerated** |
 | should be **simplely** accepted | should be **simply** accepted / should **simply** be accepted |
 | children's health could be **threated** | could be **threatened** |
+| if meetings are **hold** online | are **held** |
+| company secrets can be **steal** | can be **stolen** |
 
 副词放在 be 前面或后面都对;放在情态动词和 be 之间(should **simply** be accepted)更常见。
 
-出处:11847-1、382-1
+**不规则动词的过去分词要背(401-1 两个都错在这里):**
+
+| 原形 | 过去式 | 过去分词 |
+| --- | --- | --- |
+| hold | held | **held** |
+| steal | stole | **stolen** |
+| build | built | **built** |
+| make | made | **made** |
+| take | took | **taken** |
+| keep | kept | **kept** |
+
+出处:11847-1、382-1、401-1
 
 ## 4. make 的三种用法
 
@@ -74,6 +95,8 @@
 | via work at home | **by working** at home | 11847-1 |
 | prevent them from **communicate** with friends, widening … and **develop** … | prevent them from **communicating** with friends, widening … and **developing** … | 382-1 |
 | Using computer frequally, they will … | **By using** computers frequently, they will … | 382-1 |
+| to prevent somthing from **happen** | to prevent this from **happening** | 401-1 |
+| can … come back to workplae **and don't waste** time | can … come back to their workplace **without wasting** time | 401-1 |
 
 - by doing = 通过……的方式。
 - **介词后面并列几个动作,每一个都要 -ing**(382-1 中间的 widening 对了,前后两个错了)。
@@ -97,8 +120,10 @@
 | to help **they finished** tasks | to help **them finish** tasks | help sb **do** sth:宾格 + 原形 | 382-1 |
 | how they **used in** past time | how they **used to spend** it in the past | used to + 原形,动词不能省 | 382-1 |
 | contiune student | continue **studying** | continue + doing / to do | 11847-1 |
+| I recommend business **should** keep updating | I recommend **that businesses** keep updating | recommend / suggest **that** + 主语 + 原形 | 401-1 |
+| which means **to save** the travel expenses | which means **that** travel expenses can be saved | 「这意味着……」= mean that + 句子 | 401-1 |
 
-出处:11847-1、382-1
+出处:11847-1、382-1、401-1
 
 ## 7. 动词作主语用 doing
 
@@ -122,11 +147,17 @@
 | link that **with** long screen time | link this **to** too much screen time | 382-1 |
 | spending free time **in** new technology | spend free time **on** new technologies | 382-1 |
 | it will harm **to** children eyes | it can harm children's eyes | 382-1 |
+| hold meetings **in** headquarte | hold meetings **at** their headquarters | 401-1 |
+| company secrets can be stolen **on** online meetings | … stolen **during** online meetings | 401-1 |
+| hackers may break into **and** steal … | hackers may break into **it** and steal … | 401-1 |
+| **it might occur something** | **some problems might occur** / something might happen | 401-1 |
 
 - invest money **in** sth;link A **to** B;spend time / money **on** sth。
 - **harm、affect、damage 后面直接接宾语,不加 to。**
+- **break into 后面必须有宾语**(break into **it** / **the system**)。
+- **occur、happen 是不及物动词,后面不能接宾语。** 中文「会出现问题」,英文要让「问题」做主语:✓ `Problems might occur.` ✗ `It might occur problems.`
 
-出处:11847-1、11847-2、382-1
+出处:11847-1、11847-2、382-1、401-1
 
 ## 9. 大作文的时态
 
@@ -136,16 +167,23 @@
 | 到现在为止的变化 | 现在完成时 | technology **has transformed** our lives |
 | 过去的例子 | 一般过去时 | during the pandemic, students **continued** … and employees **kept** …(✓ 你用对了) |
 | 有过去时间 | 一般过去时 | all of which **were** unimaginable a generation ago(✗ is) |
+| 讲普遍情况 | 一般现在时 | Big companies usually **have** branches around the world(✗ built) |
 
-出处:11847-1
+有 usually、often、always 的句子,一般用现在时。
+
+出处:11847-1、401-1
 
 ## 10. 主谓一致
 
 - the digital divide **is** threatening(✗ are)。divide 是单数。
 - a significant proportion of people **remain**:proportion of + 复数名词,动词用复数也可以。
 - **指前面整件事用 this + 单数动词(382-1):** ✗ `These prevent them …` → ✓ `This prevents them …`。
+- **单数主语,现在时动词加 s(401-1):**
+  - ✗ `If something urgent occur` → ✓ `If something urgent **occurs**`(something、everything、nobody 都是单数)
+  - ✗ `the practice is less expensive and improve work efficiency` → ✓ `… and **improves** …`(and 后面的第二个动词也要加 s)
+- **people 是复数(401-1):** ✗ `people is` → ✓ `people **are**`。
 
-出处:11847-1、382-1
+出处:11847-1、382-1、401-1
 
 ## 11. 中文语序 → 英文语序
 
@@ -159,6 +197,20 @@
 | 在电子设备上玩游戏 | electronic to play games | play games **on electronic devices** | 382-1 |
 | 网上的知识和信息 | the online knowledge and information | knowledge and information **online** | 382-1 |
 | 人与人之间的交流 | communication between people and people | communication **between people** / human interaction | 382-1 |
+| 可能会出现一些问题 | it might occur something | **some problems** might occur | 401-1 |
+| 人们很难看清别人的肢体语言 | people is hard to see clearly other's body language | **it is hard for people to** see other people's body language **clearly** | 401-1 |
+| 网上会议和培训的普及有更多好处 | online meeting and traning become popularty has more advantage | **the popularity of** online meetings and training **brings** more advantages | 401-1 |
+
+**「某人很难 / 很容易做某事」(401-1):** 不能用人做主语。
+
+✗ `People is hard to see …`
+✓ `**It is hard for people to** see …`
+
+同样:It is easy for children to …;It is difficult for elderly people to …
+
+**「……的普及 / 增加 / 发展」(401-1):** 中文常把一整句当主语(「网上会议普及了」+「有更多好处」),英文一个句子只能有一个谓语,要把前半句变成名词短语:the popularity of …、the increase in …、the development of …。
+
+**副词放在宾语后面:** ✗ `see clearly other people's body language` → ✓ `see other people's body language **clearly**`。
 
 **「在哪方面有优势」要紧跟 edge / advantage(11847-1、11847-2 都错了):**
 
@@ -167,7 +219,7 @@
 
 修饰谁,就紧跟谁。
 
-出处:11847-1、11847-2、382-1
+出处:11847-1、11847-2、382-1、401-1
 
 ## 12. 关系代词不能省
 
@@ -226,10 +278,17 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | social skill / primary student / using computer / new technology | social **skills** / primary school **students** / using **computers** / new **technologies** | **泛指的可数名词用复数** | 382-1 |
 | in front of screen / staring at TV | in front of **the** screen / staring at **the** TV | 单数可数名词前要冠词 | 382-1 |
 | it can't be **the** substitute for … | it can't be **a** substitute for … | 「一种替代品」用 a | 382-1 |
+| hold meeting / the advantage outweigh the disadvantage / company secret / communication system / business should … | hold **meetings** / the **advantages** outweigh the **disadvantages** / company **secrets** / communication **systems** / **businesses** should … | 泛指的可数名词用复数 | 401-1 |
+| **Major** advantage is that … | **The major** advantage is that … | 「最主要的那个」用 the | 401-1 |
+| **company** can hold **meeting** online | **a** company can hold **a** meeting online | 单数可数名词前要冠词 | 401-1 |
+| in headquarte | at their **headquarters** | headquarters 永远以 s 结尾 | 401-1 |
+| **the** work efficiency can be improved | work efficiency can be improved | 泛指的不可数名词不加 the | 401-1 |
 
-**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。
+**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training)泛指时什么都不加。
 
-出处:11847-1、11847-2、382-1
+> 401-1 里这一类错了 13 处,是这篇最多的语法错误。
+
+出处:11847-1、11847-2、382-1、401-1
 
 ## 16. 所有格 's
 
@@ -239,13 +298,15 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | --- | --- |
 | children computer skill | **children's** computer skills |
 | children eyes | **children's** eyes |
+| other's body language(401-1) | **others'** body language / **other people's** body language |
 
 - 不以 s 结尾的名词(包括 children、people、men):加 **'s** → children's、people's。
-- 以 s 结尾的复数:只加 **'** → students'、parents'。
+- 以 s 结尾的复数:只加 **'** → students'、parents'、**others'**。
+- 「别人的」通常指很多人,用复数 others',最简单的写法是 other people's。
 
 > 382-1 里 `children's social skill`、`children's physical health`、`children's posture` 你都写对了,结尾段写快了才漏掉。
 
-出处:382-1
+出处:382-1、401-1
 
 ## 17. 标点和大小写
 
@@ -257,5 +318,20 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - **句号、逗号后面一定空一格:** ✗ `advantages.Smartphones`、`pandemic,millions`、`example,in`、`downsides.Although` → ✓ `advantages. Smartphones`、`pandemic, millions`、`example, in`、`downsides. Although`。
 - 句号前面不空格,也不要连续两个空格:✗ `working at home .` → ✓ `working at home.`。
 - **每段最后一句也要有句号(382-1 开头段漏了)。**
+- **列举两样东西用 and,不用「、」(401-1):** ✗ `hold meeting、organize training` → ✓ `hold meetings and organize training`。
 
-出处:11847-1、11847-2、382-1
+出处:11847-1、11847-2、382-1、401-1
+
+## 18. 表示结果、目的、原因的连接词
+
+| 中文 | ✓ 用 | 注意 |
+| --- | --- | --- |
+| 所以(结果) | **so** / as a result, | ✗ `so that company may suffer a large loss` → ✓ `so the company may suffer a large loss` |
+| 为了(目的) | **so that** / to do | so that 后面常有 can / will:… update their systems **so that** hackers cannot break in |
+| 考虑到这种情况 / 因此 | **For this reason,** / **Therefore,** | ✗ `As a result. I recommend …` → ✓ `For this reason, I recommend …` |
+
+- **so that = 为了**,不是「所以」。表示「所以」只用 so。
+- As a result、For this reason、Therefore 后面用**逗号**,和后面的句子连在一起,不能单独加句号。
+- As a result 是「结果是」,前面要有原因;401-1 结尾前一句说的是「机密可能被窃取」,后面是「我建议……」,这是「考虑到」,不是「结果」。
+
+出处:401-1
