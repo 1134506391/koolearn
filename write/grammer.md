@@ -31,6 +31,13 @@
 - **名词不能当形容词用(401-1):** ✗ `the system is not security` → ✓ `not **secure**`。is / are 后面描述「怎么样」,要用形容词。
 - **动词和名词用混(407-1):** ✗ `negative affects` → ✓ `negative **effects**`。**affect 是动词,effect 是名词**;✗ `are more efficiency` → ✓ `work more **efficiently**`(修饰动词用副词);✗ `afraid to social with others` → ✓ `afraid to **socialise** with others`(social 是形容词,「交往」用动词)。
 - **修饰名词要用形容词(409-1):** ✗ `its truely size` → ✓ `its **true** size`(副词 truly 不能修饰名词);✗ `economy growth` → ✓ `**economic** growth`。
+- **3946-1 词性大爆发(一篇 6 处),同一个错误模式:** 介词 / 形容词位置上放了名词。
+  - ✗ `in modern **social**` → ✓ `in modern **society**`(social 形,society 名,本篇错 2 次)
+  - ✗ `**pleasure** home atmosphere` → ✓ `**a pleasant** family atmosphere`
+  - ✗ `**harmony** home atmosphere` → ✓ `**a harmonious** family atmosphere`
+  - ✗ `the **lost** of faulty production` → ✓ `the **loss** from faulty goods`(lost 是 lose 的过去式,名词是 loss)
+  - ✗ `robots could **product** more **productions**` → ✓ `robots can **produce** more **products**`(product 名 → produce 动;production 不可数)
+  - ✗ `are efficitive and accruated` → ✓ `are **efficient and accurate**`
 
 | 名词 | 形容词 |
 | --- | --- |
@@ -39,9 +46,13 @@
 | popularity | popular |
 | importance | important |
 | economy | economic |
+| society | social |
+| pleasure | pleasant |
+| harmony | harmonious |
+| loss | lose(动)/ lost(过去式) |
 | effect(名) | affect(动) |
 
-出处:11847-1、382-1、401-1、407-1、409-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1
 
 ## 2. 否定用前缀,不用 not + 动词
 
@@ -66,6 +77,7 @@
 | children's health could be **threated** | could be **threatened** |
 | if meetings are **hold** online | are **held** |
 | company secrets can be **steal** | can be **stolen** |
+| the unnecessary cost **who cause by** human | the unnecessary costs **caused by** human error |
 
 副词放在 be 前面或后面都对;放在情态动词和 be 之间(should **simply** be accepted)更常见。
 
@@ -80,7 +92,9 @@
 | take | took | **taken** |
 | keep | kept | **kept** |
 
-出处:11847-1、382-1、401-1
+**who / which 的分工(3946-1):** who 只能指人,指物用 which / that;过去分词可以直接作后置定语,不需要关系代词:✗ `costs who cause by human` → ✓ `costs **caused by** human error`(= costs which are caused by …)。
+
+出处:11847-1、382-1、401-1、3946-1
 
 ## 4. make 的三种用法
 
@@ -103,11 +117,14 @@
 | can … come back to workplae **and don't waste** time | can … come back to their workplace **without wasting** time | 401-1 |
 | is harmful to **develop** children's social ability | is harmful to **the development of** children's social skills | 407-1 |
 | a way **boosting** economy growth | a way **of promoting** economic growth | 409-1 |
+| are used to **use** robots | **get used to robots doing** chores / get used to **using** robots | 3946-1 |
+| helpful **to create** | helpful **in creating** | 3946-1 |
 
 - by doing = 通过……的方式。
 - **介词后面并列几个动作,每一个都要 -ing**(382-1 中间的 widening 对了,前后两个错了)。
-- **to 不一定是不定式符号,也可能是介词**:look forward to doing、be used to doing、harmful to sth(407-1),后面接名词或 doing。
+- **to 不一定是不定式符号,也可能是介词**:look forward to doing、**be / get used to doing**(3946-1)、harmful to sth(407-1),后面接名词或 doing。
 - **「做某事的方式」= a way of doing / a way to do**(409-1),不能直接 a way doing。
+- **be helpful in doing sth**(3946-1),介词用 in,不用 to。
 
 **by 后面接名词时要小心(11847-2):**
 
@@ -117,7 +134,7 @@
 | by + 交通 / 通讯方式(不加冠词) | 乘…、用… | by bus、by email、by phone |
 | through / via + 名词 | 通过某个渠道 | continued studying **through** online courses(✗ by online courses) |
 
-出处:11847-1、11847-2、382-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
 
 ## 6. 情态动词和 to 后面用原形
 
@@ -133,8 +150,11 @@
 | which makes them **spent** more time | which makes them **spend** more time | **make sb do sth**:宾格 + 原形 | 407-1 |
 | they will **fell** behind / after children **grown** | they will **fall** behind / when children **grow up** | will 后面、时间状语从句里用原形 | 407-1 |
 | cities would **lost** a way | cities would **lose** a way | would / could / should + 原形 | 409-1 |
+| are less likely **argue** | are less likely **to argue** | **be likely to do**,to 不能省 | 3946-1 |
+| hope other **do** chores | **want the other to do** the chores | want sb **to do** sth | 3946-1 |
+| cause the unemployment rate **increase** | cause the unemployment rate **to rise** | **cause sth to do sth** | 3946-1 |
 
-出处:11847-1、382-1、401-1、407-1、409-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1
 
 ## 7. 动词作主语用 doing
 
@@ -170,6 +190,9 @@
 | play **computer and tablet** | play **on computers and tablets** | 407-1 |
 | disagree **the point / the viewpoint** | disagree **with this view** | 409-1 |
 | play **specific role who** come from … | play **the role of people** from … | 409-1 |
+| argue **with** the division of chores | argue **about** the division of chores | 3946-1 |
+| take charge **work** | take charge **of the** work | 3946-1 |
+| **xx** the loss(承担) | **bear** the loss / bear the cost | 3946-1 |
 
 - invest money **in** sth;link A **to** B;spend time / money **on** sth。
 - **harm、affect、damage 后面直接接宾语,不加 to。**
@@ -178,8 +201,9 @@
 - **「对……有影响」= have an effect on;「对某人有吸引力」= attractive to sb。**
 - **disagree 是不及物动词,必须加 with**(409-1 一篇漏了 2 次):disagree **with** sth / sb。
 - **「扮演……的角色」= play the role of sb**;who 只能指人,不能指 role。
+- **argue with + 人,argue about + 事**(3946-1);**take charge of + 宾语**(3946-1);「承担成本 / 损失」= **bear** the cost / loss。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
 
 ## 9. 大作文的时态
 
@@ -199,7 +223,9 @@
 
 **讲假设的、还没发生的结果用 would + 原形**(409-1):✗ `city lost a way` → ✓ `cities **would lose** a way`,不能用过去式 lost。
 
-出处:11847-1、401-1、407-1、409-1
+**will 和 would 分工(3946-1):** 对未来的**确定性预测**用 will:✗ `more people **would** lose their jobs` → ✓ `more people **will** lose their jobs`;would 用于假设(if I were …, I would …)或委婉语气,不能全篇代替 will。
+
+出处:11847-1、401-1、407-1、409-1、3946-1
 
 ## 10. 主谓一致
 
@@ -212,8 +238,9 @@
 - **people 是复数(401-1):** ✗ `people is` → ✓ `people **are**`。
 - **which 指代前面整件事时是单数(407-1,一篇错 3 处):** ✗ `which reduce / make / bring` → ✓ `which **reduces / makes / brings**`。which 不指代最近的复数名词,而是指代「前面整个情况」时,动词一律加 s。
 - **动名词 doing 作主语是单数(409-1):** ✗ `visiting these places in person bring …` → ✓ `visiting these places in person **brings** …`。和 407 的 mastering … is 同理。
+- **which 指代整件事是单数,连续三篇错(407、409、3946):** 3946-1 一篇出现 2 次 ✗ `which cause` → ✓ `which **causes**`。写完每个 which 从句都回头看动词加 s 没有。
 
-出处:11847-1、382-1、401-1、407-1、409-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1
 
 ## 11. 中文语序 → 英文语序
 
@@ -234,6 +261,8 @@
 | 他们会很难理解学习内容 | they will be hard to understand study content | they will **find it difficult to** understand what they are learning | 407-1 |
 | 亲眼看实物和在屏幕上看完全不同 | it is completely different between seeing … and looking … | **seeing a real item is completely different from** looking at a picture on a screen | 409-1 |
 | 收入来自门票 | income is not only museum tickets | income **comes not only from** museum tickets | 409-1 |
+| 需要的劳动力减少 | the labour who need are less | **fewer workers are needed** | 3946-1 |
+| 失业率上升 | the employment rate increase | the **unemployment** rate **to rise** | 3946-1 |
 
 **「某人很难 / 很容易做某事」(401-1):** 不能用人做主语。
 
@@ -257,7 +286,9 @@
 
 **「A 和 B 不同」(409-1):** 让 A 做主语,用 **A is different from B**,不要写 it is different between A and B。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1
+**近义词语序 / 词义相反要警惕(3946-1):** 中文「需要的劳动力减少」不要逐字翻成 the labour who need are less(labour 不可数、who 不能指 labour),让 workers 做主语用被动:**fewer workers are needed**。另外 **employment = 就业率,unemployment = 失业率**,带 un- 是否定,别写反。
+
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
 
 ## 12. 关系代词不能省
 
@@ -329,14 +360,17 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | **richer** experience / **real** item / on **screen** / play **specific** role | **a** richer experience / **a** real item / on **a** screen / play **the** role of | 单数可数名词前要冠词 | 409-1 |
 | high-tech **equipments** | high-tech **equipment** | **equipment 不可数**,永远不加 s | 409-1 |
 | **local** economy / **Palace museum** / with **internet** | **the** local economy / **the Palace Museum** / because of **the internet** | 特指 / 专有名词 / the internet 都要 the | 409-1 |
+| heavy **workload** / reach **the** consensus / **pleasure** home atmosphere | heavy **workloads** / reach **a** consensus / **a pleasant** family atmosphere | 泛指用复数;固定搭配用 a;单数可数名词加冠词 | 3946-1 |
+| husbands and **wifes** | husbands and **wives** | **f 结尾的名词变复数:f → v + es**(wife → wives、knife → knives、leaf → leaves、wolf → wolves) | 3946-1 |
+| more **productions** | more **products** / goods | production(生产)不可数;「产品」是可数的 product | 3946-1 |
 
-**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training、software、equipment、advice)泛指时什么都不加。
+**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training、software、equipment、advice、production、labour)泛指时什么都不加。
 
 **注意 experience 两个意思(409-1):** 「经验」不可数(have experience in teaching);「一次/一种体验」可数,要加 a:**a** richer experience。
 
-> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处,连续三篇重犯,是当前第一大问题。
+> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处;3946-1 约 6 处,连续四篇重犯,是当前第一大问题。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
 
 ## 16. 所有格 's
 
@@ -348,6 +382,7 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | children eyes | **children's** eyes |
 | other's body language(401-1) | **others'** body language / **other people's** body language |
 | tourist's hotel stays(409-1) | **tourists'** hotel stays |
+| reduce factories cost(3946-1) | reduce **factories'** costs |
 
 - 不以 s 结尾的名词(包括 children、people、men):加 **'s** → children's、people's。
 - 以 s 结尾的复数:只加 **'** → students'、parents'、**others'**。
@@ -355,7 +390,7 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 
 > 382-1 里 `children's social skill`、`children's physical health`、`children's posture` 你都写对了,结尾段写快了才漏掉。
 
-出处:382-1、401-1、409-1
+出处:382-1、401-1、409-1、3946-1
 
 ## 17. 标点和大小写
 
@@ -372,10 +407,10 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - **逗号后面的单词不要大写(407-1):** ✗ `Additionally, Playing` → ✓ `Additionally, playing`;但句号后面必须大写:✗ `the various of programs`(句首)→ ✓ `**T**he various programs`。
 - **标点后漏空格(409-1 又错 6 处):** ✗ `necessary,because`、`screen.Standing`、`headsets,so`、`museum,go` → ✓ 标点后空一格;也不要留两个空格。
 - **because 引导的从句不能单独成句(409-1):** ✗ `I disagree the point. because visiting …` → ✓ `I disagree with this view, because visiting …`。
-- **正式作文不用缩写(409-1):** ✗ can't、won't → ✓ **cannot、will not**。
 - **专有名词每个实词首字母大写(409-1):** ✗ `Palace museum` → ✓ `**the Palace Museum**`。
+- **正式作文不用缩写(409-1、3946-1 连续两篇):** ✗ can't、won't、don't → ✓ **cannot、will not、do not**。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
 
 ## 18. 表示结果、目的、原因的连接词
 
@@ -414,10 +449,12 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 
 | ✗ | ✓ |
 | --- | --- |
-| income **is** not only museum tickets, but also tourist's hotel stays | income **comes not only from** museum tickets, but also **from** tourists' hotel stays |
+| income **is** not only museum tickets, but also tourist's hotel stays(409-1) | income **comes not only from** museum tickets, but also **from** tourists' hotel stays |
+| employers not only **have to hire** …, but also **bear** the loss …(3946-1) | employers not only **have to hire** …, but also **have to bear** the loss … |
 
-- **not only 前面有什么词(介词、动词),but also 后面也要有对应的词**。上句来自 409-1:from 放在 not only 前面,两边共用也对;但你原来的句子 income is tickets 逻辑不通,收入不能「是」门票。
+- **not only 前面有什么词(介词、动词),but also 后面也要有对应的词**。第一句来自 409-1:from 放在 not only 前面,两边共用也对;但你原来的句子 income is tickets 逻辑不通,收入不能「是」门票。
+- **3946-1 的错法更典型:not only 后面是 have to hire(谓语),but also 后面直接放了动词原形 bear,结构残缺**——要补成 have to bear,两边都是 have to do。有意思的是,这篇的参考范文原句也犯了同样的错(改了 7 处之一),说明这是中国学生的常见坑。
 - 连接两个主语时动词就近原则:Not only the students but also the teacher **is** coming.
 - 参考范文的改法(409):income comes **not only from** … tickets, **but also from** visitors' hotel stays, meals and souvenirs——两边都是 from + 名词,完全对称。
 
-出处:407-1、409-1
+出处:407-1、409-1、3946-1
