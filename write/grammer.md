@@ -41,6 +41,10 @@
 - **3947-1 又错 2 处:**
   - ✗ `**advantage** alien creature` → ✓ `**advanced** alien life forms`(advantage 是名词「优势」,形容词「先进的」= advanced)
   - ✗ `more **understand** of aliens` → ✓ `a better **understanding of** alien creatures`(understand 是动词,名词 = understanding)
+- **4546-1 又错 3 处:**
+  - ✗ `technology was less **develop**` → ✓ `less **developed**`(be 动词后用形容词)
+  - ✗ `the most **monitor**` → ✓ `the most **obvious one**`(monitor 是动词/名词「监控」,形容词「明显的」= obvious)
+  - ✗ `**tire** eye` → ✓ `**tired** eyes`(修饰名词用形容词 tired,且 eye 用复数)
 
 | 名词 | 形容词 |
 | --- | --- |
@@ -55,9 +59,11 @@
 | loss | lose(动)/ lost(过去式) |
 | advantage(优势) | advanced(先进的) |
 | understanding(理解,名) | understand(动) |
+| development(发展,名) | developed(发达的)/ developing(发展中的) |
+| tiredness(疲劳,名) | tired(疲劳的) |
 | effect(名) | affect(动) |
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 2. 否定用前缀,不用 not + 动词
 
@@ -84,6 +90,7 @@
 | company secrets can be **steal** | can be **stolen** |
 | the unnecessary cost **who cause by** human | the unnecessary costs **caused by** human error |
 | once the message **was send** out | once a message **is sent** out |
+| cannot be **ignore** / could be **harm** | cannot be **ignored** / could be **harmed** |
 
 副词放在 be 前面或后面都对;放在情态动词和 be 之间(should **simply** be accepted)更常见。
 
@@ -102,7 +109,9 @@
 
 **once 引导的普遍规律用一般现在时的被动(3947-1):** ✗ `Once the message **was send** out` → ✓ `Once a message **is sent** out`。send → sent(过去分词);「一旦……就……」讲客观规律,不用过去时。
 
-出处:11847-1、382-1、401-1、3946-1、3947-1
+**4546-1 被动又错 2 处:** ✗ `cannot be **ignore**` → ✓ `cannot be **ignored**`;✗ `could be **harm**` → ✓ `could be **harmed**。规则不变:be + 过去分词,ignore → ignored、harm → harmed 都是规则变化直接加 d/ed。
+
+出处:11847-1、382-1、401-1、3946-1、3947-1、4546-1
 
 ## 4. make 的三种用法
 
@@ -127,12 +136,14 @@
 | a way **boosting** economy growth | a way **of promoting** economic growth | 409-1 |
 | are used to **use** robots | **get used to robots doing** chores / get used to **using** robots | 3946-1 |
 | helpful **to create** | helpful **in creating** | 3946-1 |
+| the benefit **of people use** social media | the benefit **of using** social media | 4546-1 |
 
 - by doing = 通过……的方式。
 - **介词后面并列几个动作,每一个都要 -ing**(382-1 中间的 widening 对了,前后两个错了)。
 - **to 不一定是不定式符号,也可能是介词**:look forward to doing、**be / get used to doing**(3946-1)、harmful to sth(407-1),后面接名词或 doing。
 - **「做某事的方式」= a way of doing / a way to do**(409-1),不能直接 a way doing。
 - **be helpful in doing sth**(3946-1),介词用 in,不用 to。
+- **of / by / without 等介词后面遇到动词,一律加 -ing**(4546-1:of using)。
 
 **by 后面接名词时要小心(11847-2):**
 
@@ -142,7 +153,7 @@
 | by + 交通 / 通讯方式(不加冠词) | 乘…、用… | by bus、by email、by phone |
 | through / via + 名词 | 通过某个渠道 | continued studying **through** online courses(✗ by online courses) |
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、4546-1
 
 ## 6. 情态动词和 to 后面用原形
 
@@ -163,8 +174,11 @@
 | cause the unemployment rate **increase** | cause the unemployment rate **to rise** | **cause sth to do sth** | 3946-1 |
 | who will **received** it | who **receives** it | will 后用原形;普遍情况用一般现在时 | 3947-1 |
 | how a civilization **survive** | how a civilization **can survive** | 单数主语动词加 s 或加情态动词 | 3947-1 |
+| allowing **they learn** | allowing **them to learn** | **allow sb to do sth**;动词后用宾格 them | 4546-1 |
+| might **ending** up | might **end** up | 情态动词 might 后用原形 | 4546-1 |
+| I suggest that parents limit …, adults take …, and **checking** … | I suggest that parents **should** limit …, adults **should take** …, and everyone **should check** … | suggest that + 主语 + (should)原形;**并列从句结构要对称** | 4546-1 |
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 7. 动词作主语用 doing
 
@@ -176,12 +190,15 @@
 | **long time to use** these new technology could harm … | **using** these new technologies **for a long time** could harm … |
 | Although **use** new tenologies can develop … | Although **using** new technologies can develop … |
 | **master** how to use new technology, **it** is an important skill | **mastering** how to use new technology **is** an important skill |
+| **people use** social media … **bring** more positive effects | **using** social media … **brings** more positive effects |
 
 「长时间」= for a long time,**放在 doing 短语的最后**。
 
 407-1 那句还有一个问题:一个句子不能有 master 和 it 两个主语,把动词变成 mastering 之后,it 就多余了。
 
-出处:382-1、407-1
+4546-1 结尾句重犯:中文「人们用社交媒体……带来更多好处」,英文一个句子只能有一个谓语,把「用社交媒体」名词化成 using social media,谓语用单数 brings。
+
+出处:382-1、407-1、409-1、4546-1
 
 ## 8. 动词 + 介词搭配
 
@@ -206,6 +223,10 @@
 | learn **technology** from them | learn **from their** technology | 3947-1 |
 | Europeans arrive **Americas** | Europeans arrived **in the** Americas | 3947-1 |
 | put humanity **at risks** / **at the** position | put humanity **at risk** / **in the** same position | 3947-1 |
+| attending **in** university | **attending** university(零介词) | 4546-1 |
+| share their lives **of** each other | share their lives **with** each other | 4546-1 |
+| lead **to** an inactive lifestyle | **lead an** inactive lifestyle | 4546-1 |
+| heard about **until** one or two days later | heard about **events** one or two days later | 4546-1 |
 
 - invest money **in** sth;link A **to** B;spend time / money **on** sth。
 - **harm、affect、damage 后面直接接宾语,不加 to。**
@@ -216,8 +237,9 @@
 - **「扮演……的角色」= play the role of sb**;who 只能指人,不能指 role。
 - **argue with + 人,argue about + 事**(3946-1);**take charge of + 宾语**(3946-1);「承担成本 / 损失」= **bear** the cost / loss。
 - **固定搭配整体记(3947-1):at risk(不加 s)、in the same position(介词用 in)、arrive in + 大地方、learn from sth。**
+- **及物动词直接加宾语,不加介词(4546-1):attend university / attend a meeting**;**share sth with sb**;**lead a … life**(过着……的生活,零介词);hear about sth(about 后必须有宾语)。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 9. 大作文的时态
 
@@ -231,6 +253,8 @@
 | will 后面 / 时间状语从句 | 动词原形 | they will **fall** behind(✗ fell);when children **grow up**(✗ grown) |
 | 假设的结果 | would + 动词原形 | cities **would lose** a way(✗ lost) |
 | 历史例子 | 一般过去时 | when Europeans **arrived** …, native peoples **suffered** … and **lost** their land(✗ arrive / suffer) |
+| 「过去的过去」 | 过去完成时 had done | the public heard about events one or two days after they **had happened**(✗ happen) |
+| if 条件从句(真实条件) | 一般现在时 | If they **spend** too much time …, they may …(✗ If they spending) |
 
 有 usually、often、always 的句子,一般用现在时。
 
@@ -242,7 +266,11 @@
 
 **历史例子必须用一般过去时(3947-1,一篇错 3 处):** ✗ `when Europeans **arrive** …, residents **suffer** …, losing their land` → ✓ `when Europeans **arrived** …, native peoples **suffered** … and **lost** their land`。看到「历史上、曾经、……的时候」就切换过去式,同一段里时态保持一致。
 
-出处:11847-1、401-1、407-1、409-1、3946-1、3947-1
+**过去完成时 had done(4546-1):** 两个过去动作,先发生的用过去完成时:✗ `the public heard about events after things **happen**` → ✓ `the public heard about events one or two days after they **had happened**`。「听说」是过去时,「事情发生」在听说之前,是「过去的过去」。
+
+**if 真实条件句:从句一般现在时,主句 will / may + 原形(4546-1):** ✗ `If they **spending** too much time …, they may …` → ✓ `If they **spend** too much time …, they may …`。if 从句里不能直接用 doing。
+
+出处:11847-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 10. 主谓一致
 
@@ -255,9 +283,11 @@
 - **people 是复数(401-1):** ✗ `people is` → ✓ `people **are**`。
 - **which 指代前面整件事时是单数(407-1,一篇错 3 处):** ✗ `which reduce / make / bring` → ✓ `which **reduces / makes / brings**`。which 不指代最近的复数名词,而是指代「前面整个情况」时,动词一律加 s。
 - **动名词 doing 作主语是单数(409-1):** ✗ `visiting these places in person bring …` → ✓ `visiting these places in person **brings** …`。和 407 的 mastering … is 同理。
-- **which 指代整件事是单数,连续三篇错(407、409、3946):** 3946-1 一篇出现 2 次 ✗ `which cause` → ✓ `which **causes**`。写完每个 which 从句都回头看动词加 s 没有。
+- **which 指代整件事是单数,连续多篇错(407、409、3946、4546):** 3946-1 一篇出现 2 次 ✗ `which cause` → ✓ `which **causes**`;4546-1 又错 ✗ `which eventually **improve**` → ✓ `which eventually **helps to improve**`。写完每个 which 从句都回头看动词加 s 没有。
+- **what 引导的名词性从句用单数动词(4546-1):** ✗ `find out what **are** happening` → ✓ `find out what **is** happening`。what = the thing that,视为单数。
+- **不可数名词作主语,动词用单数(4546-1):** ✗ `fake news **spread** quickly` → ✓ `fake news **spreads** quickly`。同类:information **is**、technology **has**、equipment **is**、advice **is**。
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、4546-1
 
 ## 11. 中文语序 → 英文语序
 
@@ -282,6 +312,8 @@
 | 失业率上升 | the employment rate increase | the **unemployment** rate **to rise** | 3946-1 |
 | 主动联系外星生物 | contacting actively alien creature | **actively contacting** alien creatures | 3947-1 |
 | 本文将先分析两种观点 | This essay analyse both views first | This essay **will analyse** both views first | 3947-1 |
+| 用社交媒体带来更多好处 | people use social media … bring more positive effect | **using** social media … **brings** more positive **effects** | 4546-1 |
+| 自动推送即时消息 | send automatimly instant messages | **automatically send** instant messages | 4546-1 |
 
 **「某人很难 / 很容易做某事」(401-1):** 不能用人做主语。
 
@@ -307,11 +339,11 @@
 
 **近义词语序 / 词义相反要警惕(3946-1):** 中文「需要的劳动力减少」不要逐字翻成 the labour who need are less(labour 不可数、who 不能指 labour),让 workers 做主语用被动:**fewer workers are needed**。另外 **employment = 就业率,unemployment = 失业率**,带 un- 是否定,别写反。
 
-**方式副词放在动词前面(3947-1):** ✗ `contacting **actively** alien creatures` → ✓ `**actively** contacting` alien creatures。同类:seriously consider、greatly improve、widely used。
+**方式副词放在动词前面(3947-1、4546-1 连错两篇):** ✗ `contacting **actively**` → ✓ `**actively** contacting`;✗ `send **automatically** instant messages` → ✓ `**automatically send** instant messages`。同类:seriously consider、greatly improve、widely used。
 
 **双边讨论开头模板(3947-1):** 「本文将先分析……然后提出看法」= **This essay will first analyse both views and then give my own opinion**。essay 是单数,用现在时也要 analyses;开头说「将要做」用 will analyse 最稳。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 12. 关系代词不能省
 
@@ -391,16 +423,20 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | **under** universe | understand **the** universe | **the universe、the sun、the moon、the earth 独一无二,永远加 the** | 3947-1 |
 | alien **creature**(2 处)/ send **message** to space | alien **creatures** / send **messages into** space | 泛指用复数;「进入太空」用 into | 3947-1 |
 | a threat to **human** | a threat to **humanity / human beings** | human 作名词通常用复数 humans;统称人类用 humanity | 3947-1 |
+| **Main** benefit / **inactive** lifestyle | **The main** benefit / **an** inactive lifestyle | 单数可数名词加冠词;元音开头用 an | 4546-1 |
+| other **country** | **another** country / other **countries** | another + 单数;other + 复数 | 4546-1 |
+| good **relationship** / positive **effect** / tire **eye** | good **relationships** / positive **effects** / tired **eyes** | 泛指用复数 | 4546-1 |
+| fake news **spread** | fake news **spreads** | **news 不可数**,动词用单数(同 information、advice) | 4546-1 |
 
-**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training、software、equipment、advice、production、labour)泛指时什么都不加。
+**判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training、software、equipment、advice、production、labour、**news**)泛指时什么都不加,且后面动词用单数。
 
 **注意 experience 两个意思(409-1):** 「经验」不可数(have experience in teaching);「一次/一种体验」可数,要加 a:**a** richer experience。
 
 **one of 结构(3947-1):** one of the + **复数名词** + 单数动词:One of the reasons **is** that …。不能说 one of reasons,也不能接逗号就完。
 
-> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处;3946-1 约 6 处;3947-1 约 7 处,连续五篇重犯,是当前第一大问题。
+> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处;3946-1 约 6 处;3947-1 约 7 处;4546-1 约 7 处,连续六篇重犯,是当前第一大问题。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 16. 所有格 's
 
@@ -442,8 +478,9 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - **专有名词每个实词首字母大写(409-1):** ✗ `Palace museum` → ✓ `**the Palace Museum**`。
 - **正式作文不用缩写(409-1、3946-1、3947-1 连续三篇):** ✗ can't、won't、don't、couldn't、should't → ✓ **cannot、will not、do not、could not、should not**。
 - **逗号后面的单词不要大写,句号后面必须大写(3947-1):** ✗ `Secondly, Once` → ✓ `Secondly, once`;✗ `them. while` → ✓ `them. While`。
+- **标点后漏空格(4546-1 又错 5 处):** ✗ `news.Personally`、`In the past,the`、`time.By`、`news,they`、`quickly,and` → ✓ 标点后空一格。这个错误 8 篇里出现了 8 次,写完专门扫一遍所有句号和逗号。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
 
 ## 18. 表示结果、目的、原因的连接词
 
@@ -491,4 +528,13 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - 连接两个主语时动词就近原则:Not only the students but also the teacher **is** coming.
 - 参考范文的改法(409):income comes **not only from** … tickets, **but also from** visitors' hotel stays, meals and souvenirs——两边都是 from + 名词,完全对称。
 
-出处:407-1、409-1、3946-1
+### suggest that 后面的并列建议也要对称(4546-1)
+
+| ✗ | ✓ |
+| --- | --- |
+| I suggest that parents **should limit** …, adults **take** part …, and **checking** news … | I suggest that parents **should limit** …, adults **should take** part …, and everyone **should check** the news … |
+
+- suggest / recommend that + 主语 + (should)+ 动词原形(见第 6 节)。
+- 一条建议是一个完整从句(主语 + 动词),三条建议并列时**每个从句的结构保持一致**,不能前两条是句子、第三条突然变成 doing。
+
+出处:407-1、409-1、3946-1、4546-1
