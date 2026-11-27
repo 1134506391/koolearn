@@ -13,7 +13,7 @@
 | 词形 | 1. 词尾决定词性 · 2. 否定用前缀 |
 | 动词 | 3. 被动语态 · 4. make 的三种用法 · 5. 介词后面用 doing · 6. 情态动词和 to 后面用原形 · 7. 动词作主语用 doing · 8. 动词 + 介词搭配 |
 | 时态 | 9. 大作文的时态 · 10. 主谓一致 |
-| 句子 | 11. 中文语序 → 英文语序 · 12. 关系代词不能省 · 13. 「随着」用 As · 14. 两个句子不能只用逗号连接 · 18. 表示结果、目的、原因的连接词 · 19. 并列结构 neither … nor … / not only … but also … |
+| 句子 | 11. 中文语序 → 英文语序 · 12. 关系代词不能省 · 13. 「随着」用 As · 14. 两个句子不能只用逗号连接 · 18. 表示结果、目的、原因的连接词 · 19. 并列结构 neither … nor … / not only … but also … / such as |
 | 名词 | 15. 冠词和单复数 · 16. 所有格 's |
 | 标点 | 17. 标点和大小写 |
 
@@ -45,6 +45,12 @@
   - ✗ `technology was less **develop**` → ✓ `less **developed**`(be 动词后用形容词)
   - ✗ `the most **monitor**` → ✓ `the most **obvious one**`(monitor 是动词/名词「监控」,形容词「明显的」= obvious)
   - ✗ `**tire** eye` → ✓ `**tired** eyes`(修饰名词用形容词 tired,且 eye 用复数)
+- **4547-1 又错 3 处:**
+  - ✗ `both **social** and individual will benefit`(一篇 2 次)→ ✓ `both **society and individuals**`(social 是形容词,名词「社会」= society)
+  - ✗ `**self-driver** cars` → ✓ `**self-driving** cars`(「自动驾驶的」用 -ing 形容词,同 driverless cars)
+  - ✗ `**more safer**` → ✓ `**safer**`(**双重比较级**:safer 已经是比较级,不能再加 more)
+
+**比较级构成(4547-1):** 单音节词直接加 -er(safe → safer、fast → faster),**前面不能再加 more**;多音节词才用 more( more important、more expensive)。不规则:good → better、bad → worse、far → farther。
 
 | 名词 | 形容词 |
 | --- | --- |
@@ -61,9 +67,10 @@
 | understanding(理解,名) | understand(动) |
 | development(发展,名) | developed(发达的)/ developing(发展中的) |
 | tiredness(疲劳,名) | tired(疲劳的) |
+| driving(驾驶,动名词) | self-driving(自动驾驶的) |
 | effect(名) | affect(动) |
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 2. 否定用前缀,不用 not + 动词
 
@@ -91,6 +98,7 @@
 | the unnecessary cost **who cause by** human | the unnecessary costs **caused by** human error |
 | once the message **was send** out | once a message **is sent** out |
 | cannot be **ignore** / could be **harm** | cannot be **ignored** / could be **harmed** |
+| dangerous behaviour would greatly **reduce** | dangerous behaviour will **be greatly reduced** |
 
 副词放在 be 前面或后面都对;放在情态动词和 be 之间(should **simply** be accepted)更常见。
 
@@ -111,7 +119,9 @@
 
 **4546-1 被动又错 2 处:** ✗ `cannot be **ignore**` → ✓ `cannot be **ignored**`;✗ `could be **harm**` → ✓ `could be **harmed**。规则不变:be + 过去分词,ignore → ignored、harm → harmed 都是规则变化直接加 d/ed。
 
-出处:11847-1、382-1、401-1、3946-1、3947-1、4546-1
+**4547-1:** 「行为被减少」也要用被动:✗ `dangerous behaviour would greatly **reduce**` → ✓ `… will **be greatly reduced**`。看到「被、受到、得到」先想 be + 过去分词。
+
+出处:11847-1、382-1、401-1、3946-1、3947-1、4546-1、4547-1
 
 ## 4. make 的三种用法
 
@@ -153,7 +163,7 @@
 | by + 交通 / 通讯方式(不加冠词) | 乘…、用… | by bus、by email、by phone |
 | through / via + 名词 | 通过某个渠道 | continued studying **through** online courses(✗ by online courses) |
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、4546-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、4546-1、4547-1
 
 ## 6. 情态动词和 to 后面用原形
 
@@ -177,8 +187,10 @@
 | allowing **they learn** | allowing **them to learn** | **allow sb to do sth**;动词后用宾格 them | 4546-1 |
 | might **ending** up | might **end** up | 情态动词 might 后用原形 | 4546-1 |
 | I suggest that parents limit …, adults take …, and **checking** … | I suggest that parents **should** limit …, adults **should take** …, and everyone **should check** … | suggest that + 主语 + (should)原形;**并列从句结构要对称** | 4546-1 |
+| allowing people **do** whatever they want | allowing people **to do** whatever they want | **allow sb to do sth**(连续两篇错,必须背熟) | 4547-1 |
+| I **have consider** | I **have considered** / Another point **is that** | 现在完成时 have + **过去分词** | 4547-1 |
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 7. 动词作主语用 doing
 
@@ -215,7 +227,7 @@
 | attractive **for** children | attractive **to** children | 407-1 |
 | cause negative affects **for** … | **have** negative effects **on** … | 407-1 |
 | play **computer and tablet** | play **on computers and tablets** | 407-1 |
-| disagree **the point / the viewpoint** | disagree **with this view** | 409-1 |
+| disagree **the point / the viewpoint** / agree **this view** | disagree **with this view** / agree **with this view** | 409-1、4547-1 |
 | play **specific role who** come from … | play **the role of people** from … | 409-1 |
 | argue **with** the division of chores | argue **about** the division of chores | 3946-1 |
 | take charge **work** | take charge **of the** work | 3946-1 |
@@ -233,13 +245,14 @@
 - **break into 后面必须有宾语**(break into **it** / **the system**)。
 - **occur、happen 是不及物动词,后面不能接宾语。** 中文「会出现问题」,英文要让「问题」做主语:✓ `Problems might occur.` ✗ `It might occur problems.`
 - **「对……有影响」= have an effect on;「对某人有吸引力」= attractive to sb。**
-- **disagree 是不及物动词,必须加 with**(409-1 一篇漏了 2 次):disagree **with** sth / sb。
+- **disagree / agree 都是不及物动词,必须加 with**(409-1 漏 2 次、4547-1 又漏 2 次):disagree **with** sth / sb;agree **with** this view。
 - **「扮演……的角色」= play the role of sb**;who 只能指人,不能指 role。
 - **argue with + 人,argue about + 事**(3946-1);**take charge of + 宾语**(3946-1);「承担成本 / 损失」= **bear** the cost / loss。
 - **固定搭配整体记(3947-1):at risk(不加 s)、in the same position(介词用 in)、arrive in + 大地方、learn from sth。**
 - **及物动词直接加宾语,不加介词(4546-1):attend university / attend a meeting**;**share sth with sb**;**lead a … life**(过着……的生活,零介词);hear about sth(about 后必须有宾语)。
+- **compared with 用对了要保持(4547-1):** ✅ `Compared with human drivers, self-driving cars will …`——后面的比较对象用复数 drivers。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 9. 大作文的时态
 
@@ -262,7 +275,7 @@
 
 **讲假设的、还没发生的结果用 would + 原形**(409-1):✗ `city lost a way` → ✓ `cities **would lose** a way`,不能用过去式 lost。
 
-**will 和 would 分工(3946-1):** 对未来的**确定性预测**用 will:✗ `more people **would** lose their jobs` → ✓ `more people **will** lose their jobs`;would 用于假设(if I were …, I would …)或委婉语气,不能全篇代替 will。
+**will 和 would 分工(3946-1、4547-1):** 对未来的**确定性预测**用 will:✗ `more people **would** lose their jobs` → ✓ `more people **will** lose their jobs`;✗ `cars **would** follow rules, so roads **would** be safer` → ✓ `cars **will** follow rules, so roads **will** be safer`。would 用于假设(if I were …, I would …)或委婉语气,不能全篇代替 will。但表达「有可能、也许」的推测用 could 更稳妥(4547:lives **could** be saved)。
 
 **历史例子必须用一般过去时(3947-1,一篇错 3 处):** ✗ `when Europeans **arrive** …, residents **suffer** …, losing their land` → ✓ `when Europeans **arrived** …, native peoples **suffered** … and **lost** their land`。看到「历史上、曾经、……的时候」就切换过去式,同一段里时态保持一致。
 
@@ -270,7 +283,7 @@
 
 **if 真实条件句:从句一般现在时,主句 will / may + 原形(4546-1):** ✗ `If they **spending** too much time …, they may …` → ✓ `If they **spend** too much time …, they may …`。if 从句里不能直接用 doing。
 
-出处:11847-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 10. 主谓一致
 
@@ -286,8 +299,9 @@
 - **which 指代整件事是单数,连续多篇错(407、409、3946、4546):** 3946-1 一篇出现 2 次 ✗ `which cause` → ✓ `which **causes**`;4546-1 又错 ✗ `which eventually **improve**` → ✓ `which eventually **helps to improve**`。写完每个 which 从句都回头看动词加 s 没有。
 - **what 引导的名词性从句用单数动词(4546-1):** ✗ `find out what **are** happening` → ✓ `find out what **is** happening`。what = the thing that,视为单数。
 - **不可数名词作主语,动词用单数(4546-1):** ✗ `fake news **spread** quickly` → ✓ `fake news **spreads** quickly`。同类:information **is**、technology **has**、equipment **is**、advice **is**。
+- **4547-1 又错 3 处,都是第三人称单数:** ✗ `**Someone argue**` → ✓ `Some people **argue**`(或 Someone **argues**);✗ `As the technology **become**`(本篇 2 处)→ ✓ `As the technology **becomes**`。**be likely to 结构里 be 动词也不能省:** ✗ `accidents likely fall` → ✓ `the number of accidents **is likely to fall**`。
 
-出处:11847-1、382-1、401-1、407-1、409-1、3946-1、4546-1
+出处:11847-1、382-1、401-1、407-1、409-1、3946-1、4546-1、4547-1
 
 ## 11. 中文语序 → 英文语序
 
@@ -314,6 +328,8 @@
 | 本文将先分析两种观点 | This essay analyse both views first | This essay **will analyse** both views first | 3947-1 |
 | 用社交媒体带来更多好处 | people use social media … bring more positive effect | **using** social media … **brings** more positive **effects** | 4546-1 |
 | 自动推送即时消息 | send automatimly instant messages | **automatically send** instant messages | 4546-1 |
+| 随着技术越来越成熟 | A the technology become more mature | **As** the technology **becomes** more mature | 4547-1 |
+| 社会和个人都会受益 | both social and individual will benefit | both **society and individuals** will benefit | 4547-1 |
 
 **「某人很难 / 很容易做某事」(401-1):** 不能用人做主语。
 
@@ -343,7 +359,7 @@
 
 **双边讨论开头模板(3947-1):** 「本文将先分析……然后提出看法」= **This essay will first analyse both views and then give my own opinion**。essay 是单数,用现在时也要 analyses;开头说「将要做」用 will analyse 最稳。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 12. 关系代词不能省
 
@@ -351,11 +367,13 @@
 | --- | --- |
 | people have right to access | people **who** have access |
 | …, which is unimaged a generation ago(前面有 4 样东西) | …, **all of which** were unimaginable a generation ago |
+| some problems with this technology need to be solved(4547-1) | some problems with this technology **that** need to be solved |
 
 - 作主语的 who 不能省。
 - 指前面多样东西,用 **all of which** + 复数动词。
+- **一个名词后面紧跟第二个谓语动词时,中间要加 that / which(4547-1):** ✗ `problems with this technology need to be solved`(读起来像 technology need)→ ✓ `problems with this technology **that** need to be solved`。
 
-出处:11847-1
+出处:11847-1、4547-1
 
 ## 13. 「随着」用 As
 
@@ -364,7 +382,9 @@
 
 As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-year period。
 
-出处:11847-1
+**4547-1 重犯:** ✗ `**A the** technology behind driverless cars **become** more mature` → ✓ `**As** the technology behind driverless cars **becomes** more mature`。三个问题叠在一起:① 「随着」要用 As 不是 A;② As 后面是完整句子;③ 单数主语 technology,动词 becomes 加 s。
+
+出处:11847-1、4547-1
 
 ## 14. 两个句子不能只用逗号连接
 
@@ -385,10 +405,13 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | …primary student need to wear glasses**,** many doctors link … | …primary school students need to wear glasses**, and** many doctors link … | 382-1 |
 | …they will become more skilled**, then** they can … | …they will become more skilled**, and then** they can … | 382-1 |
 | …a richer experience**, meanwhile** these places also boost … | …a richer experience**, and** these places also boost … | 409-1 |
+| …time can be used better**,** car accidents are less likely to happen | …time can be used better**, and** car accidents are less likely to happen | 4547-1 |
 
 **instead、then、however、therefore、moreover、meanwhile 都是副词,不是连词**,不能代替 and / but 把两个句子连起来。
 
-出处:11847-1、11847-2、382-1、409-1
+4547-1 结尾重犯:两个完整句子(time can be used better / car accidents are less likely)之间只有逗号,加 and 即可。
+
+出处:11847-1、11847-2、382-1、409-1、4547-1
 
 ## 15. 冠词和单复数
 
@@ -427,6 +450,10 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 | other **country** | **another** country / other **countries** | another + 单数;other + 复数 | 4546-1 |
 | good **relationship** / positive **effect** / tire **eye** | good **relationships** / positive **effects** / tired **eyes** | 泛指用复数 | 4546-1 |
 | fake news **spread** | fake news **spreads** | **news 不可数**,动词用单数(同 information、advice) | 4546-1 |
+| human **driver** / taxi and lorry(缺名词)/ road **situation** / their **job** | human **drivers** / taxi and lorry **drivers** / road **situations** / their **jobs** | 泛指一类人 / 物用复数;taxi、lorry 是车不是人,要补 drivers | 4547-1 |
+| **lower** road accidents(2 处) | **fewer** accidents | **可数名词「更少」用 fewer**;lower 修饰价格、水平、比率(lower prices、lower risk) | 4547-1 |
+| for **the** important meeting | for **an** important meeting | 元音开头用 an | 4547-1 |
+| as **technology** become | as **the** technology **becomes** | 特指这项技术加 the;单数动词加 s | 4547-1 |
 
 **判断方法:** 名词前面没有 a / the / my / this 等词时,问自己:这个名词可数吗?可数的话,要么用复数(泛指),要么加冠词(单数)。不可数的(efficiency、information、money、training、software、equipment、advice、production、labour、**news**)泛指时什么都不加,且后面动词用单数。
 
@@ -434,9 +461,11 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 
 **one of 结构(3947-1):** one of the + **复数名词** + 单数动词:One of the reasons **is** that …。不能说 one of reasons,也不能接逗号就完。
 
-> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处;3946-1 约 6 处;3947-1 约 7 处;4546-1 约 7 处,连续六篇重犯,是当前第一大问题。
+**fewer 和 less / lower 的分工(4547-1):** **fewer + 可数复数**(fewer accidents、fewer mistakes);**less + 不可数**(less time、less money);**lower + 价格 / 水平 / 比率**(lower prices、a lower rate)。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+> 401-1 里这一类错了 13 处,是这篇最多的语法错误;407-1 又错了约 10 处;409-1 仍然约 10 处;3946-1 约 6 处;3947-1 约 7 处;4546-1 约 7 处;4547-1 约 8 处,连续七篇重犯,是当前第一大问题。
+
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 16. 所有格 's
 
@@ -479,8 +508,9 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - **正式作文不用缩写(409-1、3946-1、3947-1 连续三篇):** ✗ can't、won't、don't、couldn't、should't → ✓ **cannot、will not、do not、could not、should not**。
 - **逗号后面的单词不要大写,句号后面必须大写(3947-1):** ✗ `Secondly, Once` → ✓ `Secondly, once`;✗ `them. while` → ✓ `them. While`。
 - **标点后漏空格(4546-1 又错 5 处):** ✗ `news.Personally`、`In the past,the`、`time.By`、`news,they`、`quickly,and` → ✓ 标点后空一格。这个错误 8 篇里出现了 8 次,写完专门扫一遍所有句号和逗号。
+- **标点后漏空格(4547-1 又错 4 处)+ 逗号后大写:** ✗ `themselves.They`、`fall.Compared`、`solved.Now`、`happen.Thus` → ✓ 句号后空一格;✗ `For instance, If` → ✓ `For instance, if`(逗号后小写)。
 
-出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1
+出处:11847-1、11847-2、382-1、401-1、407-1、409-1、3946-1、3947-1、4546-1、4547-1
 
 ## 18. 表示结果、目的、原因的连接词
 
@@ -537,4 +567,13 @@ As + 完整的句子(主语 + 动词)。over 只用于时间段:over the ten-yea
 - suggest / recommend that + 主语 + (should)+ 动词原形(见第 6 节)。
 - 一条建议是一个完整从句(主语 + 动词),三条建议并列时**每个从句的结构保持一致**,不能前两条是句子、第三条突然变成 doing。
 
-出处:407-1、409-1、3946-1、4546-1
+### such as 后面的并列项形式要一致(4547-1)
+
+| ✗ | ✓ |
+| --- | --- |
+| such as **speeding, driving while tired, drink-driving and run** red lights | such as **speeding, driving while tired, drink-driving and running** red lights |
+
+- such as 列举的几个动作,**形式必须统一**:前面三个都是 -ing,最后一个也要 -ing(run → running)。
+- 同类规则:并列的名词单复数一致、并列的介词短语介词不省(见 not only … but also)。
+
+出处:407-1、409-1、3946-1、4546-1、4547-1
